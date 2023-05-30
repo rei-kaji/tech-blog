@@ -28,16 +28,20 @@ published: true
 
 # Skills -スキル
 
-languages:
+### languages:
+
 C#, Java, JavaScript, TypeScript
 
-frameworks:
+### frameworks:
+
 Next.js, ASP.NET
 
-Database management:
+### Database management:
+
 MySQL, PostgreSQL, MongoDB
 
-Other technologies:
+### Other technologies:
+
 AWS, Docker
 
 # Favorite -好きなこと

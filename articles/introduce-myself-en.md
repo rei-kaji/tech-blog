@@ -25,18 +25,22 @@ And also the project manager of a new service project.
 
 But I'd like to study English and work in a foreign country, so I'm just learning Web development and English in Canada!
 
-# Skills
+# Skills -スキル
 
-languages:
+### languages:
+
 C#, Java, JavaScript, TypeScript
 
-frameworks:
+### frameworks:
+
 Next.js, ASP.NET
 
-Database management:
+### Database management:
+
 MySQL, PostgreSQL, MongoDB
 
-Other technologies:
+### Other technologies:
+
 AWS, Docker
 
 # Favorite
