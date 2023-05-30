@@ -27,20 +27,17 @@ But I'd like to study English and work in a foreign country, so I'm just learnin
 
 # Skills
 
-- C#
-- Java
-- JavaScript
-- TypeScript
+languages:
+C#, Java, JavaScript, TypeScript
 
-- Next.js
-- React
+frameworks:
+Next.js, ASP.NET
 
-- MySQL
-- PostgreSQL
-- MongoDB
+Database management:
+MySQL, PostgreSQL, MongoDB
 
-- AWS
-- Docker
+Other technologies:
+AWS, Docker
 
 # Favorite
 
