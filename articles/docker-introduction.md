@@ -23,7 +23,7 @@ Docker を学び始めたので、学んだことをまとめていきます。
 Docker Image は、Docker コンテナを作成するためのテンプレートのようなもの。
 Docker Image は、Docker Hub というサービスで公開されているものが多く、Docker Hub から Image をダウンロードして、その Image を元にコンテナを作成することができる。
 
-### Dockerfile
+### Docker File
 
 Dockerfile は、Docker Image を作成するための設計図のようなもの。
 Docker Image を作成するためのコマンドが記述されている。
